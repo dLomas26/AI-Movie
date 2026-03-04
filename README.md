@@ -65,9 +65,9 @@ npm run dev
 
 ---
 
-## 🧰 Tech Stack
+# 🧰 Tech Stack
 
-# Frontend
+### Frontend
 
 Next.js / React
 
@@ -77,18 +77,18 @@ TypeScript / JavaScript
 
 Framer Motion (animations)
 
-# Backend
+### Backend
 
 Next.js API routes
 
 
-# External APIs
+### External APIs
 
 OMDb API – movie data
 
 OpenAI API – sentiment analysis
 
-# Tools
+### Tools
 
 Git & GitHub
 
@@ -97,47 +97,44 @@ Vercel (deployment)
 ---
 
 
-## 📌 Tech Stack Rationale
+# 📌 Tech Stack Rationale
 
 The technologies used in this project were chosen for the following reasons:
 
-# Next.js
+### Next.js
 
 Provides a powerful framework for building modern web applications with server-side rendering and API routes.
 
-# Tailwind CSS
+### Tailwind CSS
 
 Allows rapid UI development with utility-first styling, enabling a clean and responsive design.
 
-# OMDb API
+### OMDb API
 
 Provides easy access to IMDb-based movie metadata including title, rating, cast, and plot.
 
-# OpenAI API
+### OpenAI API
 
 Used to generate AI-powered insights from audience reviews, enabling sentiment classification.
 
-# Vercel Deployment
+### Vercel Deployment
 
 Next.js applications integrate seamlessly with Vercel, making deployment simple and scalable.
 
 ---
 
-## ⚠️ Assumptions
+# ⚠️ Assumptions
 
 The following assumptions were made while building this project:
 
-Users provide a valid IMDb movie ID as input.
-
-AI sentiment results are approximate summaries rather than absolute audience opinions.
-
-External APIs such as OMDb or OpenAI must be available for full functionality.
-
-The application is optimized for modern browsers.
+1.Users provide a valid IMDb movie ID as input.
+2.AI sentiment results are approximate summaries rather than absolute audience opinions.
+3.External APIs such as OMDb or OpenAI must be available for full functionality.
+4.The application is optimized for modern browsers.
 
 ---
 
-## 👨‍💻 Author
+# 👨‍💻 Author
 
 Deepanshu Lomas
 
