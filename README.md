@@ -69,33 +69,26 @@ npm run dev
 
 ### Frontend
 
-Next.js / React
-
-Tailwind CSS
-
-TypeScript / JavaScript
-
-Framer Motion (animations)
+- Next.js / React
+- Tailwind CSS
+- TypeScript / JavaScript
+- Framer Motion (animations)
 
 ### Backend
 
-Next.js API routes
-
+- Next.js API routes
 
 ### External APIs
 
-OMDb API – movie data
-
-OpenAI API – sentiment analysis
+- OMDb API – movie data
+- OpenAI API – sentiment analysis
 
 ### Tools
 
-Git & GitHub
-
-Vercel (deployment)
+- Git & GitHub
+- Vercel (deployment)
 
 ---
-
 
 # 📌 Tech Stack Rationale
 
@@ -127,10 +120,10 @@ Next.js applications integrate seamlessly with Vercel, making deployment simple 
 
 The following assumptions were made while building this project:
 
-1.Users provide a valid IMDb movie ID as input.
-2.AI sentiment results are approximate summaries rather than absolute audience opinions.
-3.External APIs such as OMDb or OpenAI must be available for full functionality.
-4.The application is optimized for modern browsers.
+- Users provide a valid IMDb movie ID as input.
+- AI sentiment results are approximate summaries rather than absolute audience opinions.
+- External APIs such as OMDb or OpenAI must be available for full functionality.
+- The application is optimized for modern browsers.
 
 ---
 
